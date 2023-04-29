@@ -3,8 +3,10 @@ body {
     grid-template-areas: 
     "aside header" /*1º linha*/
     "aside main"; /*2º linha*/
+    grid-template-columns: auto 1fr;
 }
 
+/*SEPARAÇÃO DO LAYOUT*/
 .cabecalho {
     grid-area: header;
 }
@@ -14,3 +16,4 @@ body {
 .principal {
     grid-area: main;
 }
+
