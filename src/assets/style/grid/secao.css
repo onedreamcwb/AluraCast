@@ -1,0 +1,17 @@
+.secao {
+    display: grid;
+}
+
+.secao-horizontal {
+    grid-template-rows: 120px auto;
+}
+
+/*Rows= Altura de cada Linha = Altura total dividida por 3 pra 2º duas frações*/
+.secao-vertical {
+    grid-template-columns: 1fr auto;
+    grid-template-rows: 1fr 2fr;
+}
+
+.secao-vertical .secao__cartoes {
+    grid-column: 1/3;
+}

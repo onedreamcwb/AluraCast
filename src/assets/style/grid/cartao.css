@@ -4,8 +4,14 @@
 }
 
 .secao-horizontal .cartao__imagem {
-    grid-column-start: 1;
+   /* grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
-    grid-row-end: 4;
+    grid-row-end: 4;*/
+    grid-area: 1/1/4/2; /*Melhoria da Sintaxe dos elementos = Menos Verboso*/
+}
+/*Posicionamento botão*/
+.secao-horizontal .cartao__botao {
+    grid-column: 3/4; /*start*/
+    grid-row: 1/4; /*End*/
 }
