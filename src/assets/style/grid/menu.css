@@ -1,0 +1,5 @@
+.menu-lateral {
+    display: grid; /*Grid container*/
+    grid-template-rows: auto auto auto 1fr; /*Tamanho das linhas da grade.*/
+    row-gap: 2rem; /*Define a distância Vertical entre as linhas da grade. Neste caso existe uma lacuna de 2rem entre cada linha*/
+}
