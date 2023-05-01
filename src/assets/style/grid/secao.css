@@ -7,6 +7,10 @@
     grid-template-rows: 120px auto;
 }
 
+.secao-horizontal .secao__cartoes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%/2, max(348px, 100%/3)), 1fr));
+}
 /*Rows= Altura de cada Linha = Altura total dividida por 3 pra 2º duas frações*/
 .secao-vertical {
     grid-template-columns: 1fr auto;
