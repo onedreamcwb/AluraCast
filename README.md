@@ -1,6 +1,6 @@
-# <a href="https://media.discordapp.net/attachments/1044972183870525540/1102647415615520861/image.png">Projeto AluraCast</a>
-<img src="https://media.discordapp.net/attachments/1044972183870525540/1095716097266811031/image.png?width=960&height=242">
-Este é um Projeto do <a href="https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos">Curso 1</a> da Formação "aprofunde em estilos" da Alura
+# <a href="#">Projeto AluraCast</a>
+<img src="https://media.discordapp.net/attachments/1044972183870525540/1102647415615520861/image.png">
+Este é um Projeto do <a href="https://cursos.alura.com.br/course/css-construindo-layouts-grid">Curso 2</a> da Formação "aprofunde em estilos" da Alura
 
 # 🧠Tabela de conteúdos
 
@@ -14,39 +14,28 @@ Este é um Projeto do <a href="https://cursos.alura.com.br/course/css-flexbox-la
 
 ## 🐱‍🏍O desafio
 
-Os utilizadores devem ser capazes de o fazer:
 
-- Entender como alinhar itens com Flexbox;
-- Propriedades para organizar grupos de itens flex na horizontal e vertical;
-- Entender como e porque utilizar o arquivo reset.css;
-- Aplicar estilos para telas mobile e tablet com @media.
-- Aplicar propriedades flex para: Alterar o eixo principal de elementos;
-- Quebra de itens em linhas ou colunas;
-- Aplicar espaçamento entre itens;
-- Definir as diferenças entre display flex e inline-flex.
-- Aprender uma nova propriedade flex, align-self;
-- Definir as diferenças entre flex-item e flex-container;
-- Aprender como utilizar pseudo-classes;
-- Aprender como utilizar a propriedade order;
-- Utilizar pseudo classes para mostrar os itens do menu Desktop escondidos;
-- Inserir vídeos no projeto;
-- Aprender como utilizar grid e flexbox em conjunto;
-- Ajustar os vídeos com a propriedade flex-grow;
-- Aprender como utilizar a propriedade flex-shrink;
+
+- Identificar as principais caracteristicas de um layout baseado em grid.
+- Implementar valores para as alturas das linhas e larguras das colunas.
+- Modificar o alinhamento vertical e horizontal dos elementos
+- Calcular o espaçamento vertical e horizontal entre os elementos
+- Integrar as propriedades do grid para tornar o layout responsivo
+- Produzir um projeto completo com CSS grid layout
 
 
 ## 🏜Captura de Tela
 
 ![](./assets/images/dekstop.png)
 
-## 🖥Dekstop
-![Imagem do Projeto dekstop](https://media.discordapp.net/attachments/1044972183870525540/1095716748638027786/61a7558e-9485-404a-b8ef-6f0a09afcf80.png?width=960&height=548)
-
 ## 📱Mobile
-![Imagem do Projeto Mobile](https://media.discordapp.net/attachments/1044972183870525540/1095716713871458406/69289526-41b5-43de-87ba-b1f494d92fe8.png?width=310&height=640)
+![Imagem do Projeto Mobile](https://media.discordapp.net/attachments/1044972183870525540/1102647152318087279/Mobile.png?width=162&height=638)
+
+## 🖥Dekstop
+![Imagem do Projeto dekstop](https://media.discordapp.net/attachments/1044972183870525540/1102647152636870706/Tablet.png?width=437&height=640)
 
 ## 🔳Tablet
-![Imagem do Projeto Tablet](https://media.discordapp.net/attachments/1044972183870525540/1095716732062146670/39363f61-aa6d-454e-9851-7c9bb07580cd.png?width=504&height=640)
+![Imagem do Projeto Tablet](https://media.discordapp.net/attachments/1044972183870525540/1102647151579906150/Dekstop.png?width=652&height=640)
 
 ## 🔗Links
 - URL da solução: [Repo AluraPlay](https://github.com/onedreamcwb/AluraPlay)
