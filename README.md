@@ -26,8 +26,6 @@ Este é um Projeto do <a href="https://cursos.alura.com.br/course/css-construind
 
 ## 🏜Captura de Tela
 
-![](./assets/images/dekstop.png)
-
 ## 📱Mobile
 ![Imagem do Projeto Mobile](https://media.discordapp.net/attachments/1044972183870525540/1102647152318087279/Mobile.png?width=162&height=638)
 
@@ -38,35 +36,27 @@ Este é um Projeto do <a href="https://cursos.alura.com.br/course/css-construind
 ![Imagem do Projeto Tablet](https://media.discordapp.net/attachments/1044972183870525540/1102647151579906150/Dekstop.png?width=652&height=640)
 
 ## 🔗Links
-- URL da solução: [Repo AluraPlay](https://github.com/onedreamcwb/AluraPlay)
-- URL do sítio em directo: [Link da Web](https://your-live-site-url.com)
-- URL do Quadro Trello [Link](https://trello.com/c/Dy86YQLA)
 
-![](./assets/images/mobile.png)
+- URL do site: [Link da Web](https://alura-cast-zeta-snowy.vercel.app/)
+- URL do Projeto Figma [Link](https://www.figma.com/file/Cs3tPE5ZrxD7PfaAsK2AMb/Projeto-Grid---Alura-Cast?t=Sy7GhIkjAZGnlpMF-6)
+
 
 ## 🙋🏼‍♂️O meu processo
 
-<img align="center" src="https://media.discordapp.net/attachments/1044972183870525540/1095726422221406378/image.png?width=960&height=547">
-<p align="center"> Particularmente, eu demorei um pouco pra entender a idéia do projeto, pois pegar um projeto já montado e apenas configurar o CSS dele foi novo pra mim. Senti que aprendi muito com esse curto na questão do Flexbox. Tanto pra container quanto pra Flex-items. Terminei o curso em 2 dias e mais 2 para me aprofundar</p>
+Particularmente tive um pouco de dificuldade no inicio, pois eu estava me acostumando muito com o Display: flex. Posicionamentos em geral. Então basicamente o conceito de Grid foi totalmente novo pra mim, mas assim como todos desafios que encontro na caminhada pra me tornar um programador melhor, me aprofundei ao máximo. Vendo vídeos no youtube, artigos do Alura em geral sobre Grid e acredito que tenho uma base legal agora.
 
 
 #### 🛠Construído com
 
-- Marcação HTML5 semântico
+- Display: Grid
 - Propriedades personalizadas do CSS
-- Flexbox
 - Fluxo de trabalho Dekstop-primeiro
-- Aplicação de Metodologia BEM
-- Design Atômico
 
-### ✅Checklist de Desenvolvimento
 
-- [x] Aplicação da Metodologia BEM
-- [x] Aplicação de Design Atômico
-- [x] Inserção dos Links
-- [ ] Refazer o Projeto pra um Tema futurista (I.A)
-- [ ] Conteúdos referentes a I.A
-- [ ] Mudar visual
+### ✅Checklist de Desenvolvimento <a href="https://github.com/users/onedreamcwb/projects/6">Link para o Checklist</a>
+
+![Imagem Checklist Github](https://media.discordapp.net/attachments/1044972183870525540/1102652580749918409/image.png)
+
 
 ## Autor
 
