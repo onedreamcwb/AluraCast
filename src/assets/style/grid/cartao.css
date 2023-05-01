@@ -16,3 +16,7 @@
     grid-column: 3/4; /*start*/
     grid-row: 1/4; /*End*/
 }
+
+.secao-horizontal .cartao__titulo {
+    align-self: end;
+}
